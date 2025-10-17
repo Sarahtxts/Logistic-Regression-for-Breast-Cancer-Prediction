@@ -52,9 +52,16 @@ python logisticregression_cancer.py
 - Model training and prediction
 - Evaluation metrics & ROC Curve visualization
 
-## References
-- scikit-learn documentation (https://scikit-learn.org/)
-- matplotlib documentation (https://matplotlib.org/)
-- seaborn documentation (https://seaborn.pydata.org/)
+## 👩‍💻 Author  
+**Sarah S V**  
+B.Tech – Artificial Intelligence & Data Science  
+Rajalakshmi Institute of Technology, Chennai  
+📧 [Add your email or LinkedIn link here]
 
+## 📚 References
+- [scikit-learn documentation](https://scikit-learn.org/)
+- [USArrests dataset](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [King County Housing Data](https://www.kaggle.com/harlfoxem/housesalesprediction)
+- [Matplotlib documentation](https://matplotlib.org/)
+  
 ***
