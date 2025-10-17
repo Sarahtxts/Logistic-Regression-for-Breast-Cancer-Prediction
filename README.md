@@ -56,7 +56,8 @@ python logisticregression_cancer.py
 **Sarah S V**  
 B.Tech – Artificial Intelligence & Data Science  
 Rajalakshmi Institute of Technology, Chennai  
-📧 [Add your email or LinkedIn link here]
+📧 [sarahsv.codes@gmail.com]
+📧 [https://www.linkedin.com/in/sarahsv3107/]
 
 ## 📚 References
 - [scikit-learn documentation](https://scikit-learn.org/)
