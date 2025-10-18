@@ -1,5 +1,3 @@
-***
-
 # Logistic Regression for Breast Cancer Prediction
 
 This project demonstrates the use of **Logistic Regression** to classify breast cancer based on a provided dataset, using scikit-learn and visualization libraries for analysis and reporting.
